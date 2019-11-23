@@ -37,13 +37,13 @@
 |      |       | B        |     | \_  Youth -- sell Souper-Bowl Sunday (after MLK, Feb. 2)                  |
 |      |       | B        |     | \_  Youth lockin Fri. after MLK day                                       |
 |------+-------+----------+-----+---------------------------------------------------------------------------|
-| TODO |       | B        |     | TODO-list -- consult list -- everything in this section                   |
+| TODO |       | B        |     | TODO-list -- consult list -- plus everything in this section              |
 |      | John  | B        |     | \_  Request from Cary FUMC ppl                                            |
 |      | John  | B        |     | \_  Investigate having labels printed (discount through church?)          |
 |      |       | B        |     | \_  Actually get labels printed                                           |
 | DONE | Erika | B        |     | \_  Send link to Zoe materials                                            |
 |      | Erika | B        |     | \_  Convert zoe todo list to... excel sheet                               |
-|      |       | B        |     | \_  Shopping                                                              |
+|      |       | B        |     | \_  Shopping legwork                                                      |
 |      |       | B        |     | \_    Investigate bulk food from weaver street                            |
 |      |       | B        |     | \_    Ziplock snack bags for pasta                                        |
 |      |       | B        |     | \_    Order boullion from bulkfoods.com?                                  |
@@ -65,7 +65,8 @@
 
     Tags:
 
-    todo-list
+    todo-list -- from Cary FUMC folks or from Zoe website -- This is what's referred to as the "todo list" if it's not
+    clear from this document (which is also a todo list, confusingly enough).
 
     assembly instructions (how to run lines)
 
@@ -78,9 +79,9 @@
 
 ** Youth lockin Fri. after MLK day
 
-   Can do finish-up after jars packed.
+   Can do finish-up after jars packed.  (String/tags.)
 
-* TODO TODO-list -- consult list -- everything in this section
+* TODO TODO-list -- consult list -- plus everything in this section
 
   Don't need to do bags.  (This year.)  Or we can make them optional.
   
@@ -104,6 +105,8 @@
 
    Call Kinko's or Copytron to see if they do it and how much it costs.
 
+   Dimensions from todo-list?
+
 ** Actually get labels printed
 
 ** DONE Send link to Zoe materials   
@@ -121,7 +124,9 @@
    :WHO:      Erika
    :END:
 
-** Shopping
+   Ingredient list, primarily.
+
+** Shopping legwork
 
    Ppl can shop & get reimbursed from missions funds
 
@@ -137,26 +142,41 @@
     
 ** order bags
 
+   Little paper bags to put jars in for gifts and carrying and whatnot.  Probably good for little presents or fanciness?
+   Since we won't be doing this for Christmas this year, maybe not so important?  Would it make carrying the jars
+   easier?
+   
 ** label bags
+
+   (if we get them)
 
    u-crew or children's bible study or sunday school classes
 
 ** pre-label jars (sticky labels)
 
    u-crew or children's bible study or sunday school classes
+
+   maybe we need someone to shepherd this through?
    
 ** tag jars (strings & tags)
+
+   More kids' activities?
+
 ** day of assembly: a team of captains on MLK day of service (Jan. 20?)
 
    Need more than just us two, preferably.
 
    Replaces Rise against Hunger effort of prev. years
 
+   Intent is to have filling stations and "walkers" to move jars from one station to the next.  So, we need a
+   person/station (ingredient?) and some "walkers" (not "runners" because these are glass jars).
+
 ** Need measuring/scooping equipment for assembly day in fellowship hall
 
-   bins/bowls to hold bulk materials
+   bins/bowls to hold bulk materials?
 
    how many?
+
 ** Buy jars
    :PROPERTIES:
    :WHO:      Erika
