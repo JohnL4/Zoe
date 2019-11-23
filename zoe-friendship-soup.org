@@ -1,0 +1,131 @@
+# -*- org -*-
+#+TITLE: Notes for ZOE Friendship Soup Project
+#+COLUMNS: %12TODO %10WHO %3PRIORITY %HOURS(HRS){est+} %82ITEM
+# #+INFOJS_OPT: view:showall toc:t ltoc:nil path:../org-info.js mouse:#B3F2E3
+# Pandoc needs H:9; default is H:3.
+# `^:nil' means raw underscores and carets are not interpreted to mean sub- and superscript.  (Use {} to force interpretation.)
+#+OPTIONS: author:nil creator:t H:9 ^:{}
+#+HTML_HEAD: <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,400i,600,600i|IBM+Plex+Sans:400,400i,600,600i|IBM+Plex+Serif:400,400i,600,600i">
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org-mode.css" />
+
+# Generates "up" and "home" links ("." is "current directory").  Can comment one out.
+#+HTML_LINK_UP: .
+#+HTML_LINK_HOME: _index.html
+
+# Use ``#+ATTR_HTML: :class lower-alpha'' on line before list to use the following class.
+# See https://emacs.stackexchange.com/a/18943/17421
+# 
+#+HTML_HEAD: <style type="text/css">
+#+HTML_HEAD:  ol.lower-alpha { list-style-type: lower-alpha; }
+#+HTML_HEAD: </style>
+
+* Overview 
+** Column view
+# C-c C-c in block to update or C-u C-c C-x C-u to update all such views in file from anywhere.
+#+BEGIN: columnview :hlines 1 :id global :indent t
+#+END:
+* Notes
+** What we have now
+*** Content
+    
+    Recipes: beef soup (email, Erika's research)
+
+    Labels: text (downloaded from Zoe website)
+
+    Tags:
+
+    todo-list
+
+    assembly instructions (how to run lines)
+
+    ingredient amts per jar for both beef and veg
+
+** What we don't have
+
+
+* Considerations
+
+** Youth -- sell Souper-Bowl Sunday (after MLK, Feb. 2)
+
+** Youth lockin Fri. after MLK day
+
+   Can do finish-up after jars packed.
+
+* TODO TODO-list -- consult list
+
+  Don't need to do bags.  (This year.)  Or we can make them optional.
+  
+** Request from Cary FUMC ppl
+   :PROPERTIES:
+   :WHO:      John
+   :END:
+
+   jar assembly instructions for veg (how to layer)
+   
+   recipe instructions for veg (attach to jar)
+
+   what size jars did they use?
+   
+** Investigate having labels printed (discount through church?)
+   :PROPERTIES:
+   :WHO:      John
+   :END:
+
+   Email or call Betty Peterson or Mary Youngberg.
+
+   Call Kinko's or Copytron to see if they do it and how much it costs.
+
+** Actually get labels printed
+
+** Send link to Zoe materials   
+   :PROPERTIES:
+   :WHO:      Erika
+   :END:
+
+   (To John.)
+
+** Convert zoe todo list to... excel sheet
+   :PROPERTIES:
+   :WHO:      Erika
+   :END:
+
+** Shopping
+
+   Ppl can shop & get reimbursed from missions funds
+
+   need shoppers (costco or sam's club or weaver street bulk or whatever)
+
+*** Investigate bulk food from weaver street
+    
+*** Ziplock snack bags for pasta
+
+*** Order boullion from bulkfoods.com?
+
+    Order /everything/ from there???
+    
+** order bags
+
+** label bags
+
+   u-crew or children's bible study or sunday school classes
+
+** pre-label jars (sticky labels)
+
+   u-crew or children's bible study or sunday school classes
+   
+** tag jars (strings & tags)
+** day of assembly: a team of captains on MLK day of service (Jan. 20?)
+
+   Need more than just us two, preferably.
+
+   Replaces Rise against Hunger effort of prev. years
+
+** Need measuring/scooping equipment for assembly day in fellowship hall
+
+   bins/bowls to hold bulk materials
+
+   how many?
+** Buy jars
+   :PROPERTIES:
+   :WHO:      Erika
+   :END:
