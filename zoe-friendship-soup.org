@@ -23,6 +23,37 @@
 ** Column view
 # C-c C-c in block to update or C-u C-c C-x C-u to update all such views in file from anywhere.
 #+BEGIN: columnview :hlines 1 :id global :indent t
+| TODO | WHO   | PRIORITY | HRS | ITEM                                                                      |
+|------+-------+----------+-----+---------------------------------------------------------------------------|
+|      |       | B        |     | Overview                                                                  |
+|      |       | B        |     | \_  Column view                                                           |
+|------+-------+----------+-----+---------------------------------------------------------------------------|
+|      |       | B        |     | Notes                                                                     |
+|      |       | B        |     | \_  What we have now                                                      |
+|      |       | B        |     | \_    Content                                                             |
+|      |       | B        |     | \_  What we don't have                                                    |
+|------+-------+----------+-----+---------------------------------------------------------------------------|
+|      |       | B        |     | Considerations                                                            |
+|      |       | B        |     | \_  Youth -- sell Souper-Bowl Sunday (after MLK, Feb. 2)                  |
+|      |       | B        |     | \_  Youth lockin Fri. after MLK day                                       |
+|------+-------+----------+-----+---------------------------------------------------------------------------|
+| TODO |       | B        |     | TODO-list -- consult list                                                 |
+|      | John  | B        |     | \_  Request from Cary FUMC ppl                                            |
+|      | John  | B        |     | \_  Investigate having labels printed (discount through church?)          |
+|      |       | B        |     | \_  Actually get labels printed                                           |
+|      | Erika | B        |     | \_  Send link to Zoe materials                                            |
+|      | Erika | B        |     | \_  Convert zoe todo list to... excel sheet                               |
+|      |       | B        |     | \_  Shopping                                                              |
+|      |       | B        |     | \_    Investigate bulk food from weaver street                            |
+|      |       | B        |     | \_    Ziplock snack bags for pasta                                        |
+|      |       | B        |     | \_    Order boullion from bulkfoods.com?                                  |
+|      |       | B        |     | \_  order bags                                                            |
+|      |       | B        |     | \_  label bags                                                            |
+|      |       | B        |     | \_  pre-label jars (sticky labels)                                        |
+|      |       | B        |     | \_  tag jars (strings & tags)                                             |
+|      |       | B        |     | \_  day of assembly: a team of captains on MLK day of service (Jan. 20?)  |
+|      |       | B        |     | \_  Need measuring/scooping equipment for assembly day in fellowship hall |
+|      | Erika | B        |     | \_  Buy jars                                                              |
 #+END:
 * Notes
 ** What we have now
@@ -41,8 +72,6 @@
     ingredient amts per jar for both beef and veg
 
 ** What we don't have
-
-
 * Considerations
 
 ** Youth -- sell Souper-Bowl Sunday (after MLK, Feb. 2)
