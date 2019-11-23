@@ -3,3 +3,7 @@ See [[file:zoe-friendship-soup.org][zoe-friendship-soup.org]]
 (See also https://zoeempowers.org if you want to know what the heck is going on here.  It's a church fundraiser.)
 
 All the glory for the initial email and Word docs goes to First United Methodist Church of Cary, NC.
+
+The .eml file is an email message which /should/ open in whatever is your favorite email client (Outlook, Thunderbird,
+...).
+
