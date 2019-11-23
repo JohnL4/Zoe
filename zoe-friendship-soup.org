@@ -37,11 +37,11 @@
 |      |       | B        |     | \_  Youth -- sell Souper-Bowl Sunday (after MLK, Feb. 2)                  |
 |      |       | B        |     | \_  Youth lockin Fri. after MLK day                                       |
 |------+-------+----------+-----+---------------------------------------------------------------------------|
-| TODO |       | B        |     | TODO-list -- consult list                                                 |
+| TODO |       | B        |     | TODO-list -- consult list -- everything in this section                   |
 |      | John  | B        |     | \_  Request from Cary FUMC ppl                                            |
 |      | John  | B        |     | \_  Investigate having labels printed (discount through church?)          |
 |      |       | B        |     | \_  Actually get labels printed                                           |
-|      | Erika | B        |     | \_  Send link to Zoe materials                                            |
+| DONE | Erika | B        |     | \_  Send link to Zoe materials                                            |
 |      | Erika | B        |     | \_  Convert zoe todo list to... excel sheet                               |
 |      |       | B        |     | \_  Shopping                                                              |
 |      |       | B        |     | \_    Investigate bulk food from weaver street                            |
@@ -80,7 +80,7 @@
 
    Can do finish-up after jars packed.
 
-* TODO TODO-list -- consult list
+* TODO TODO-list -- consult list -- everything in this section
 
   Don't need to do bags.  (This year.)  Or we can make them optional.
   
@@ -106,11 +106,14 @@
 
 ** Actually get labels printed
 
-** Send link to Zoe materials   
+** DONE Send link to Zoe materials   
+   CLOSED: [2019-11-23 Sat 14:07]
    :PROPERTIES:
    :WHO:      Erika
    :END:
 
+   - CLOSING NOTE [2019-11-23 Sat 14:07] \\
+     Sent link in response to initial group email.
    (To John.)
 
 ** Convert zoe todo list to... excel sheet
