@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2019-11-23 Sat 14:40 -->
+<!-- 2019-12-01 Sun 23:32 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Notes for ZOE Friendship Soup Project</title>
@@ -160,6 +160,19 @@
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
   .inlinetask {
     padding: 10px;
     border: 2px solid gray;
@@ -189,7 +202,7 @@ ol.lower-alpha { list-style-type: lower-alpha; }
 @licstart  The following is the entire license notice for the
 JavaScript code in this tag.
 
-Copyright (C) 2012-2017 Free Software Foundation, Inc.
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
 
 The JavaScript code in this tag is free software: you can
 redistribute it and/or modify it under the terms of the GNU
@@ -242,60 +255,78 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orge889fa2">1. Overview</a>
+<li><a href="#orgc5523c7">1. Overview</a>
 <ul>
-<li><a href="#orge02bb10">1.1. Column view</a></li>
+<li><a href="#orgd27b9fb">1.1. Column view</a></li>
 </ul>
 </li>
-<li><a href="#org1644874">2. Notes</a>
+<li><a href="#org67055a6">2. Notes</a>
 <ul>
-<li><a href="#org1f48a36">2.1. What we have now</a>
+<li><a href="#orge78faca">2.1. What we have now</a>
 <ul>
-<li><a href="#org17db9b0">2.1.1. Content</a></li>
+<li><a href="#orgccde9cb">2.1.1. Content</a></li>
 </ul>
 </li>
-<li><a href="#orgb10bc95">2.2. What we don't have</a></li>
+<li><a href="#org1047666">2.2. What we don't have</a></li>
 </ul>
 </li>
-<li><a href="#org6274b65">3. Considerations</a>
+<li><a href="#orgf1991ad">3. Considerations</a>
 <ul>
-<li><a href="#org9fed851">3.1. Youth &#x2013; sell Souper-Bowl Sunday (after MLK, Feb. 2)</a></li>
-<li><a href="#org7a1d737">3.2. Youth lockin Fri. after MLK day</a></li>
+<li><a href="#orgfa2b67f">3.1. Youth &#x2013; sell Souper-Bowl Sunday (after MLK, Feb. 2)</a></li>
+<li><a href="#orge5cbeed">3.2. Youth lockin Fri. after MLK day</a></li>
 </ul>
 </li>
-<li><a href="#orgcfb0e9c">4. <span class="todo TODO">TODO</span> TODO-list &#x2013; consult list &#x2013; plus everything in this section</a>
+<li><a href="#orgf1f7054">4. <span class="todo TODO">TODO</span> TODO-list &#x2013; consult list &#x2013; plus everything in this section</a>
 <ul>
-<li><a href="#org8700243">4.1. Request from Cary FUMC ppl</a></li>
-<li><a href="#orgfab3f97">4.2. Investigate having labels printed (discount through church?)</a></li>
-<li><a href="#org8fc44d4">4.3. Actually get labels printed</a></li>
-<li><a href="#orge9da899">4.4. <span class="done DONE">DONE</span> Send link to Zoe materials</a></li>
-<li><a href="#orgf0f1fe5">4.5. Convert zoe todo list to&#x2026; excel sheet</a></li>
-<li><a href="#orgc65f9f8">4.6. Shopping legwork</a>
+<li><a href="#org263a241">4.1. Request from Cary FUMC ppl</a></li>
+<li><a href="#org41c3a48">4.2. Investigate having labels printed (discount through church?)</a></li>
+<li><a href="#org65fed7d">4.3. Actually get labels printed</a></li>
+<li><a href="#orgd5f384b">4.4. <span class="done DONE">DONE</span> Send link to Zoe materials</a></li>
+<li><a href="#orgc5c4137">4.5. Convert zoe todo list to&#x2026; excel sheet</a></li>
+<li><a href="#orgb467dcf">4.6. Shopping legwork</a>
 <ul>
-<li><a href="#org88d4081">4.6.1. Investigate bulk food from weaver street</a></li>
-<li><a href="#org38c2cb8">4.6.2. Ziplock snack bags for pasta</a></li>
-<li><a href="#org9f0078d">4.6.3. Order boullion from bulkfoods.com?</a></li>
+<li><a href="#org6d65886">4.6.1. Investigate bulk food from weaver street</a></li>
+<li><a href="#org53dad59">4.6.2. Ziplock snack bags for pasta</a></li>
+<li><a href="#org9be0f76">4.6.3. Order boullion from bulkfoods.com?</a></li>
 </ul>
 </li>
-<li><a href="#org64d22e7">4.7. order bags</a></li>
-<li><a href="#orgc7e10d7">4.8. label bags</a></li>
-<li><a href="#org9cd3179">4.9. pre-label jars (sticky labels)</a></li>
-<li><a href="#orgcdede11">4.10. tag jars (strings &amp; tags)</a></li>
-<li><a href="#org5d8d39c">4.11. day of assembly: a team of captains on MLK day of service (Jan. 20?)</a></li>
-<li><a href="#org3637bab">4.12. Need measuring/scooping equipment for assembly day in fellowship hall</a></li>
-<li><a href="#orgaf00b71">4.13. Buy jars</a></li>
+<li><a href="#org65a9cf4">4.7. order bags</a></li>
+<li><a href="#orgd5ff1a5">4.8. label bags</a></li>
+<li><a href="#org9d2133c">4.9. pre-label jars (sticky labels)</a></li>
+<li><a href="#org8746ea1">4.10. tag jars (strings &amp; tags)</a></li>
+<li><a href="#org6bcbb3e">4.11. day of assembly: a team of captains on MLK day of service (Jan. 20?)</a></li>
+<li><a href="#org0d17801">4.12. Need measuring/scooping equipment for assembly day in fellowship hall</a></li>
+<li><a href="#org5198b0d">4.13. Buy jars</a></li>
+<li><a href="#org890243d">4.14. Buy gloves and hairnets (for food handling)</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orge889fa2" class="outline-2">
-<h2 id="orge889fa2"><span class="section-number-2">1</span> Overview</h2>
+<div id="outline-container-orgc5523c7" class="outline-2">
+<h2 id="orgc5523c7"><span class="section-number-2">1</span> Overview</h2>
 <div class="outline-text-2" id="text-1">
+<p>
+University UMC (Chapel Hill) Zoe Friendship Soup project, in all its disorganized glory.
+</p>
+
+<p>
+(See also <a href="https://zoeempowers.org">https://zoeempowers.org</a> if you want to know what the heck is going on here.  It's a church fundraiser.)
+</p>
+
+<p>
+All the glory for the initial email and Word docs goes to First United Methodist Church of Cary, NC.
+</p>
+
+<p>
+The .eml file is an email message which <i>should</i> open in whatever is your favorite email client (Outlook, Thunderbird,
+&#x2026;).
+</p>
 </div>
-<div id="outline-container-orge02bb10" class="outline-3">
-<h3 id="orge02bb10"><span class="section-number-3">1.1</span> Column view</h3>
+
+<div id="outline-container-orgd27b9fb" class="outline-3">
+<h3 id="orgd27b9fb"><span class="section-number-3">1.1</span> Column view</h3>
 <div class="outline-text-3" id="text-1-1">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -536,16 +567,16 @@ for the JavaScript code in this tag.
 </div>
 </div>
 </div>
-<div id="outline-container-org1644874" class="outline-2">
-<h2 id="org1644874"><span class="section-number-2">2</span> Notes</h2>
+<div id="outline-container-org67055a6" class="outline-2">
+<h2 id="org67055a6"><span class="section-number-2">2</span> Notes</h2>
 <div class="outline-text-2" id="text-2">
 </div>
-<div id="outline-container-org1f48a36" class="outline-3">
-<h3 id="org1f48a36"><span class="section-number-3">2.1</span> What we have now</h3>
+<div id="outline-container-orge78faca" class="outline-3">
+<h3 id="orge78faca"><span class="section-number-3">2.1</span> What we have now</h3>
 <div class="outline-text-3" id="text-2-1">
 </div>
-<div id="outline-container-org17db9b0" class="outline-4">
-<h4 id="org17db9b0"><span class="section-number-4">2.1.1</span> Content</h4>
+<div id="outline-container-orgccde9cb" class="outline-4">
+<h4 id="orgccde9cb"><span class="section-number-4">2.1.1</span> Content</h4>
 <div class="outline-text-4" id="text-2-1-1">
 <p>
 Recipes: beef soup (email, Erika's research)
@@ -565,6 +596,16 @@ clear from this document (which is also a todo list, confusingly enough).
 </p>
 
 <p>
+Existing documents
+</p>
+
+<dl class="org-dl">
+<dt><a href="Friendship Soup Annual to Do List.docx">Friendship Soup Annual to Do List.docx</a></dt><dd>Cary FUMC's to-do list</dd>
+<dt><a href="Friendship Soup Recipe.doc">Friendship Soup Recipe.doc</a></dt><dd>Basic recipe</dd>
+<dt><a href="ZOE-Friendship-Soup.eml">ZOE-Friendship-Soup.eml</a></dt><dd>Initial email to us from Cary FUMC folks</dd>
+</dl>
+
+<p>
 assembly instructions (how to run lines)
 </p>
 
@@ -575,20 +616,20 @@ ingredient amts per jar for both beef and veg
 </div>
 </div>
 
-<div id="outline-container-orgb10bc95" class="outline-3">
-<h3 id="orgb10bc95"><span class="section-number-3">2.2</span> What we don't have</h3>
+<div id="outline-container-org1047666" class="outline-3">
+<h3 id="org1047666"><span class="section-number-3">2.2</span> What we don't have</h3>
 </div>
 </div>
-<div id="outline-container-org6274b65" class="outline-2">
-<h2 id="org6274b65"><span class="section-number-2">3</span> Considerations</h2>
+<div id="outline-container-orgf1991ad" class="outline-2">
+<h2 id="orgf1991ad"><span class="section-number-2">3</span> Considerations</h2>
 <div class="outline-text-2" id="text-3">
 </div>
-<div id="outline-container-org9fed851" class="outline-3">
-<h3 id="org9fed851"><span class="section-number-3">3.1</span> Youth &#x2013; sell Souper-Bowl Sunday (after MLK, Feb. 2)</h3>
+<div id="outline-container-orgfa2b67f" class="outline-3">
+<h3 id="orgfa2b67f"><span class="section-number-3">3.1</span> Youth &#x2013; sell Souper-Bowl Sunday (after MLK, Feb. 2)</h3>
 </div>
 
-<div id="outline-container-org7a1d737" class="outline-3">
-<h3 id="org7a1d737"><span class="section-number-3">3.2</span> Youth lockin Fri. after MLK day</h3>
+<div id="outline-container-orge5cbeed" class="outline-3">
+<h3 id="orge5cbeed"><span class="section-number-3">3.2</span> Youth lockin Fri. after MLK day</h3>
 <div class="outline-text-3" id="text-3-2">
 <p>
 Can do finish-up after jars packed.  (String/tags.)
@@ -597,16 +638,16 @@ Can do finish-up after jars packed.  (String/tags.)
 </div>
 </div>
 
-<div id="outline-container-orgcfb0e9c" class="outline-2">
-<h2 id="orgcfb0e9c"><span class="section-number-2">4</span> <span class="todo TODO">TODO</span> TODO-list &#x2013; consult list &#x2013; plus everything in this section</h2>
+<div id="outline-container-orgf1f7054" class="outline-2">
+<h2 id="orgf1f7054"><span class="section-number-2">4</span> <span class="todo TODO">TODO</span> TODO-list &#x2013; consult list &#x2013; plus everything in this section</h2>
 <div class="outline-text-2" id="text-4">
 <p>
 Don't need to do bags.  (This year.)  Or we can make them optional.
 </p>
 </div>
 
-<div id="outline-container-org8700243" class="outline-3">
-<h3 id="org8700243"><span class="section-number-3">4.1</span> Request from Cary FUMC ppl</h3>
+<div id="outline-container-org263a241" class="outline-3">
+<h3 id="org263a241"><span class="section-number-3">4.1</span> Request from Cary FUMC ppl</h3>
 <div class="outline-text-3" id="text-4-1">
 <p>
 jar assembly instructions for veg (how to layer)
@@ -622,8 +663,8 @@ what size jars did they use?
 </div>
 </div>
 
-<div id="outline-container-orgfab3f97" class="outline-3">
-<h3 id="orgfab3f97"><span class="section-number-3">4.2</span> Investigate having labels printed (discount through church?)</h3>
+<div id="outline-container-org41c3a48" class="outline-3">
+<h3 id="org41c3a48"><span class="section-number-3">4.2</span> Investigate having labels printed (discount through church?)</h3>
 <div class="outline-text-3" id="text-4-2">
 <p>
 Email or call Betty Peterson or Mary Youngberg.
@@ -639,12 +680,12 @@ Dimensions from todo-list?
 </div>
 </div>
 
-<div id="outline-container-org8fc44d4" class="outline-3">
-<h3 id="org8fc44d4"><span class="section-number-3">4.3</span> Actually get labels printed</h3>
+<div id="outline-container-org65fed7d" class="outline-3">
+<h3 id="org65fed7d"><span class="section-number-3">4.3</span> Actually get labels printed</h3>
 </div>
 
-<div id="outline-container-orge9da899" class="outline-3">
-<h3 id="orge9da899"><span class="section-number-3">4.4</span> <span class="done DONE">DONE</span> Send link to Zoe materials</h3>
+<div id="outline-container-orgd5f384b" class="outline-3">
+<h3 id="orgd5f384b"><span class="section-number-3">4.4</span> <span class="done DONE">DONE</span> Send link to Zoe materials</h3>
 <div class="outline-text-3" id="text-4-4">
 <ul class="org-ul">
 <li>CLOSING NOTE <span class="timestamp-wrapper"><span class="timestamp">[2019-11-23 Sat 14:07] </span></span> <br />
@@ -656,8 +697,8 @@ Sent link in response to initial group email.</li>
 </div>
 </div>
 
-<div id="outline-container-orgf0f1fe5" class="outline-3">
-<h3 id="orgf0f1fe5"><span class="section-number-3">4.5</span> Convert zoe todo list to&#x2026; excel sheet</h3>
+<div id="outline-container-orgc5c4137" class="outline-3">
+<h3 id="orgc5c4137"><span class="section-number-3">4.5</span> Convert zoe todo list to&#x2026; excel sheet</h3>
 <div class="outline-text-3" id="text-4-5">
 <p>
 Ingredient list, primarily.
@@ -665,8 +706,8 @@ Ingredient list, primarily.
 </div>
 </div>
 
-<div id="outline-container-orgc65f9f8" class="outline-3">
-<h3 id="orgc65f9f8"><span class="section-number-3">4.6</span> Shopping legwork</h3>
+<div id="outline-container-orgb467dcf" class="outline-3">
+<h3 id="orgb467dcf"><span class="section-number-3">4.6</span> Shopping legwork</h3>
 <div class="outline-text-3" id="text-4-6">
 <p>
 Ppl can shop &amp; get reimbursed from missions funds
@@ -677,16 +718,16 @@ need shoppers (costco or sam's club or weaver street bulk or whatever)
 </p>
 </div>
 
-<div id="outline-container-org88d4081" class="outline-4">
-<h4 id="org88d4081"><span class="section-number-4">4.6.1</span> Investigate bulk food from weaver street</h4>
+<div id="outline-container-org6d65886" class="outline-4">
+<h4 id="org6d65886"><span class="section-number-4">4.6.1</span> Investigate bulk food from weaver street</h4>
 </div>
 
-<div id="outline-container-org38c2cb8" class="outline-4">
-<h4 id="org38c2cb8"><span class="section-number-4">4.6.2</span> Ziplock snack bags for pasta</h4>
+<div id="outline-container-org53dad59" class="outline-4">
+<h4 id="org53dad59"><span class="section-number-4">4.6.2</span> Ziplock snack bags for pasta</h4>
 </div>
 
-<div id="outline-container-org9f0078d" class="outline-4">
-<h4 id="org9f0078d"><span class="section-number-4">4.6.3</span> Order boullion from bulkfoods.com?</h4>
+<div id="outline-container-org9be0f76" class="outline-4">
+<h4 id="org9be0f76"><span class="section-number-4">4.6.3</span> Order boullion from bulkfoods.com?</h4>
 <div class="outline-text-4" id="text-4-6-3">
 <p>
 Order <i>everything</i> from there???
@@ -695,8 +736,8 @@ Order <i>everything</i> from there???
 </div>
 </div>
 
-<div id="outline-container-org64d22e7" class="outline-3">
-<h3 id="org64d22e7"><span class="section-number-3">4.7</span> order bags</h3>
+<div id="outline-container-org65a9cf4" class="outline-3">
+<h3 id="org65a9cf4"><span class="section-number-3">4.7</span> order bags</h3>
 <div class="outline-text-3" id="text-4-7">
 <p>
 Little paper bags to put jars in for gifts and carrying and whatnot.  Probably good for little presents or fanciness?
@@ -706,8 +747,8 @@ easier?
 </div>
 </div>
 
-<div id="outline-container-orgc7e10d7" class="outline-3">
-<h3 id="orgc7e10d7"><span class="section-number-3">4.8</span> label bags</h3>
+<div id="outline-container-orgd5ff1a5" class="outline-3">
+<h3 id="orgd5ff1a5"><span class="section-number-3">4.8</span> label bags</h3>
 <div class="outline-text-3" id="text-4-8">
 <p>
 (if we get them)
@@ -719,8 +760,8 @@ u-crew or children's bible study or sunday school classes
 </div>
 </div>
 
-<div id="outline-container-org9cd3179" class="outline-3">
-<h3 id="org9cd3179"><span class="section-number-3">4.9</span> pre-label jars (sticky labels)</h3>
+<div id="outline-container-org9d2133c" class="outline-3">
+<h3 id="org9d2133c"><span class="section-number-3">4.9</span> pre-label jars (sticky labels)</h3>
 <div class="outline-text-3" id="text-4-9">
 <p>
 u-crew or children's bible study or sunday school classes
@@ -732,8 +773,8 @@ maybe we need someone to shepherd this through?
 </div>
 </div>
 
-<div id="outline-container-orgcdede11" class="outline-3">
-<h3 id="orgcdede11"><span class="section-number-3">4.10</span> tag jars (strings &amp; tags)</h3>
+<div id="outline-container-org8746ea1" class="outline-3">
+<h3 id="org8746ea1"><span class="section-number-3">4.10</span> tag jars (strings &amp; tags)</h3>
 <div class="outline-text-3" id="text-4-10">
 <p>
 More kids' activities?
@@ -741,8 +782,8 @@ More kids' activities?
 </div>
 </div>
 
-<div id="outline-container-org5d8d39c" class="outline-3">
-<h3 id="org5d8d39c"><span class="section-number-3">4.11</span> day of assembly: a team of captains on MLK day of service (Jan. 20?)</h3>
+<div id="outline-container-org6bcbb3e" class="outline-3">
+<h3 id="org6bcbb3e"><span class="section-number-3">4.11</span> day of assembly: a team of captains on MLK day of service (Jan. 20?)</h3>
 <div class="outline-text-3" id="text-4-11">
 <p>
 Need more than just us two, preferably.
@@ -759,8 +800,8 @@ person/station (ingredient?) and some "walkers" (not "runners" because these are
 </div>
 </div>
 
-<div id="outline-container-org3637bab" class="outline-3">
-<h3 id="org3637bab"><span class="section-number-3">4.12</span> Need measuring/scooping equipment for assembly day in fellowship hall</h3>
+<div id="outline-container-org0d17801" class="outline-3">
+<h3 id="org0d17801"><span class="section-number-3">4.12</span> Need measuring/scooping equipment for assembly day in fellowship hall</h3>
 <div class="outline-text-3" id="text-4-12">
 <p>
 bins/bowls to hold bulk materials?
@@ -772,16 +813,19 @@ how many?
 </div>
 </div>
 
-<div id="outline-container-orgaf00b71" class="outline-3">
-<h3 id="orgaf00b71"><span class="section-number-3">4.13</span> Buy jars</h3>
+<div id="outline-container-org5198b0d" class="outline-3">
+<h3 id="org5198b0d"><span class="section-number-3">4.13</span> Buy jars</h3>
 <div class="outline-text-3" id="text-4-13">
 </div>
+</div>
+<div id="outline-container-org890243d" class="outline-3">
+<h3 id="org890243d"><span class="section-number-3">4.14</span> Buy gloves and hairnets (for food handling)</h3>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2019-11-23 Sat 14:40</p>
-<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.1 (<a href="http://orgmode.org">Org</a> mode 9.1.2)</p>
+<p class="date">Created: 2019-12-01 Sun 23:32</p>
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.1 (<a href="https://orgmode.org">Org</a> mode 9.2.3)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

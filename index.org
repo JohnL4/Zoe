@@ -20,6 +20,16 @@
 #+HTML_HEAD: </style>
 
 * Overview 
+
+University UMC (Chapel Hill) Zoe Friendship Soup project, in all its disorganized glory.
+
+(See also https://zoeempowers.org if you want to know what the heck is going on here.  It's a church fundraiser.)
+
+All the glory for the initial email and Word docs goes to First United Methodist Church of Cary, NC.
+
+The .eml file is an email message which /should/ open in whatever is your favorite email client (Outlook, Thunderbird,
+...).
+
 ** Column view
 # C-c C-c in block to update or C-u C-c C-x C-u to update all such views in file from anywhere.
 #+BEGIN: columnview :hlines 1 :id global :indent t
@@ -67,6 +77,12 @@
 
     todo-list -- from Cary FUMC folks or from Zoe website -- This is what's referred to as the "todo list" if it's not
     clear from this document (which is also a todo list, confusingly enough).
+
+    Existing documents
+
+    - [[file:Friendship%20Soup%20Annual%20to%20Do%20List.docx][Friendship Soup Annual to Do List.docx]] :: Cary FUMC's to-do list
+    - [[file:Friendship%20Soup%20Recipe.doc][Friendship Soup Recipe.doc]] :: Basic recipe
+    - [[file:ZOE-Friendship-Soup.eml][ZOE-Friendship-Soup.eml]] :: Initial email to us from Cary FUMC folks
 
     assembly instructions (how to run lines)
 
@@ -181,3 +197,4 @@
    :PROPERTIES:
    :WHO:      Erika
    :END:
+** Buy gloves and hairnets (for food handling)
