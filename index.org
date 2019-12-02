@@ -64,6 +64,7 @@ The .eml file is an email message which /should/ open in whatever is your favori
 |      |       | B        |     | \_  day of assembly: a team of captains on MLK day of service (Jan. 20?)  |
 |      |       | B        |     | \_  Need measuring/scooping equipment for assembly day in fellowship hall |
 |      | Erika | B        |     | \_  Buy jars                                                              |
+|      |       | B        |     | \_  Buy gloves and hairnets (for food handling)                           |
 #+END:
 * Notes
 ** What we have now
