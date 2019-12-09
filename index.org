@@ -55,42 +55,43 @@
 
 # C-c C-c in block to update or C-u C-c C-x C-u to update all such views in file from anywhere.
 #+BEGIN: columnview :hlines 1 :id global :indent t
-| TODO        | WHO   | TAGS          | ITEM                                                                      |
-|-------------+-------+---------------+---------------------------------------------------------------------------|
-|             |       |               | Overview                                                                  |
-|             |       |               | \_  Column view                                                           |
-|-------------+-------+---------------+---------------------------------------------------------------------------|
-|             |       |               | Notes                                                                     |
-|             |       |               | \_  What we have now                                                      |
-|             |       |               | \_    Content                                                             |
-|             |       |               | \_  What we don't have                                                    |
-|-------------+-------+---------------+---------------------------------------------------------------------------|
-|             |       |               | Considerations                                                            |
-|             |       |               | \_  Youth -- sell Souper-Bowl Sunday (after MLK, Feb. 2)                  |
-|             |       |               | \_  Youth lockin Fri. after MLK day                                       |
-|-------------+-------+---------------+---------------------------------------------------------------------------|
-| TODO        |       |               | TODO-list -- consult list -- plus everything in this section              |
-|             | JohnL | :talk:        | \_  Request from Cary FUMC ppl                                            |
-|             | JohnL | :talk:        | \_  Investigate having labels printed (discount through church?)          |
-|             |       | :talk:online: | \_  Actually get labels printed                                           |
-| DONE        | Erika |               | \_  Send link to Zoe materials                                            |
-| DONE        | Erika |               | \_  Convert zoe todo list to... excel sheet                               |
-|             |       | :shop:        | \_  Shopping legwork                                                      |
-|             |       | :talk:        | \_    Investigate bulk food from weaver street                            |
-|             |       | :shop:        | \_    Ziplock snack bags for pasta                                        |
-|             |       | :online:      | \_    Order boullion from bulkfoods.com?                                  |
-|             |       | :online:      | \_  order bags                                                            |
-|             |       | :captain:     | \_  label bags                                                            |
-|             |       | :captain:     | \_  pre-label jars (sticky labels)                                        |
-|             |       | :captain:     | \_  tag jars (strings & tags)                                             |
-|             |       | :captain:     | \_  day of assembly: a team of captains on MLK day of service (Jan. 20?)  |
-|             |       | :shop:        | \_  Need measuring/scooping equipment for assembly day in fellowship hall |
-| IN-PROGRESS | Erika | :talk:online: | \_  Buy jars                                                              |
-|             |       | :shop:        | \_  Buy gloves and hairnets (for food handling)                           |
-|-------------+-------+---------------+---------------------------------------------------------------------------|
-|             |       |               | The giant spreadsheet of ingredients                                      |
-|-------------+-------+---------------+---------------------------------------------------------------------------|
-|             |       |               | Yet Another Way of Slicing and Dicing Tasks                               |
+| TODO        | WHO   | TAGS          | ITEM                                                                         |
+|-------------+-------+---------------+------------------------------------------------------------------------------|
+|             |       |               | Overview                                                                     |
+|             |       |               | \_  Column view                                                              |
+|-------------+-------+---------------+------------------------------------------------------------------------------|
+|             |       |               | Notes                                                                        |
+|             |       |               | \_  What we have now                                                         |
+|             |       |               | \_    Content                                                                |
+|             |       |               | \_  What we don't have                                                       |
+|-------------+-------+---------------+------------------------------------------------------------------------------|
+|             |       |               | Considerations                                                               |
+|             |       |               | \_  Youth -- sell Souper-Bowl Sunday (after MLK, Feb. 2)                     |
+|             |       |               | \_  Youth lockin Fri. after MLK day                                          |
+|-------------+-------+---------------+------------------------------------------------------------------------------|
+| TODO        |       |               | TODO-list -- consult list -- plus everything in this section                 |
+|             | JohnL | :talk:        | \_  Request from Cary FUMC ppl                                               |
+|             | JohnL | :talk:        | \_  Investigate having labels printed (discount through church?)             |
+|             |       | :talk:online: | \_  Actually get labels printed                                              |
+| DONE        | Erika |               | \_  Send link to Zoe materials                                               |
+| DONE        | Erika |               | \_  Convert zoe todo list to... excel sheet                                  |
+|             |       | :shop:        | \_  Shopping legwork                                                         |
+|             |       | :talk:        | \_    Investigate bulk food from weaver street                               |
+|             |       | :shop:        | \_    Ziplock snack bags for pasta                                           |
+|             |       | :online:      | \_    Order boullion from bulkfoods.com?                                     |
+|             |       | :online:      | \_  order bags                                                               |
+|             |       | :captain:     | \_  label bags                                                               |
+|             |       | :captain:     | \_  pre-label jars (sticky labels)                                           |
+|             |       | :captain:     | \_  tag jars (strings & tags)                                                |
+|             |       | :captain:     | \_  day of assembly: a team of captains on MLK day of service (Jan. 20?)     |
+|             |       | :shop:        | \_  Need measuring/scooping equipment for assembly day in fellowship hall    |
+| IN-PROGRESS | Erika | :talk:online: | \_  Buy jars                                                                 |
+|             |       | :shop:        | \_  Buy gloves and hairnets (for food handling)                              |
+|             |       |               | \_  Find something to keep filled jars in                                    |
+|-------------+-------+---------------+------------------------------------------------------------------------------|
+|             |       |               | The giant spreadsheet of ingredients                                         |
+|-------------+-------+---------------+------------------------------------------------------------------------------|
+|             |       |               | We probably going to create a Signup Genius so folks can volunteer for tasks |
 #+END:
 * Notes
 ** What we have now
@@ -128,7 +129,7 @@
 
   Don't need to do bags.  (This year.)  Or we can make them optional.
   
-** Request from Cary FUMC ppl                                          :talk:
+** Request from Cary FUMC ppl                                                                                  :talk:
    :PROPERTIES:
    :WHO:      JohnL
    :END:
@@ -139,7 +140,7 @@
 
    what size jars did they use?
    
-** Investigate having labels printed (discount through church?)        :talk:
+** Investigate having labels printed (discount through church?)                                                :talk:
    :PROPERTIES:
    :WHO:      JohnL
    :END:
@@ -150,7 +151,7 @@
 
    Dimensions from todo-list?
 
-** Actually get labels printed                                  :talk:online:
+** Actually get labels printed                                                                          :talk:online:
 
 ** DONE Send link to Zoe materials   
    CLOSED: [2019-11-23 Sat 14:07]
@@ -171,43 +172,43 @@
    - CLOSING NOTE [2019-12-08 Sun 22:16]
    Ingredient list, primarily.
 
-** Shopping legwork                                                    :shop:
+** Shopping legwork                                                                                            :shop:
 
    Ppl can shop & get reimbursed from missions funds
 
    need shoppers (costco or sam's club or weaver street bulk or whatever)
 
-*** Investigate bulk food from weaver street                           :talk:
+*** Investigate bulk food from weaver street                                                                   :talk:
     
-*** Ziplock snack bags for pasta                                       :shop:
+*** Ziplock snack bags for pasta                                                                               :shop:
 
-*** Order boullion from bulkfoods.com?                               :online:
+*** Order boullion from bulkfoods.com?                                                                       :online:
 
     Order /everything/ from there???
     
-** order bags                                                        :online:
+** order bags                                                                                                :online:
 
    Little paper bags to put jars in for gifts and carrying and whatnot.  Probably good for little presents or fanciness?
    Since we won't be doing this for Christmas this year, maybe not so important?  Would it make carrying the jars
    easier?
    
-** label bags                                                       :captain:
+** label bags                                                                                               :captain:
 
    (if we get them)
 
    u-crew or children's bible study or sunday school classes
 
-** pre-label jars (sticky labels)                                   :captain:
+** pre-label jars (sticky labels)                                                                           :captain:
 
    u-crew or children's bible study or sunday school classes
 
    maybe we need someone to shepherd this through?
    
-** tag jars (strings & tags)                                        :captain:
+** tag jars (strings & tags)                                                                                :captain:
 
    More kids' activities?
 
-** day of assembly: a team of captains on MLK day of service (Jan. 20?) :captain:
+** day of assembly: a team of captains on MLK day of service (Jan. 20?)                                     :captain:
 
    Need more than just us two, preferably.
 
@@ -216,17 +217,17 @@
    Intent is to have filling stations and "walkers" to move jars from one station to the next.  So, we need a
    person/station (ingredient?) and some "walkers" (not "runners" because these are glass jars).
 
-** Need measuring/scooping equipment for assembly day in fellowship hall :shop:
+** Need measuring/scooping equipment for assembly day in fellowship hall                                       :shop:
 
    bins/bowls to hold bulk materials?
 
    how many?
 
-** IN-PROGRESS Buy jars                                         :talk:online:
+** IN-PROGRESS Buy jars                                                                                 :talk:online:
    :PROPERTIES:
    :WHO:      Erika
    :END:
-** Buy gloves and hairnets (for food handling)                         :shop:
+** Buy gloves and hairnets (for food handling)                                                                 :shop:
 ** Find something to keep filled jars in
 
    The filled jars will be heavier than the empty ones, so if the empty jars come in big boxes, we need to make sure
@@ -241,27 +242,6 @@
 
   [[file:Quantities-for-Soup.xlsx][file:Quantities-for-Soup.xlsx]]
 
-* Yet Another Way of Slicing and Dicing Tasks
-  :PROPERTIES:
-  :CUSTOM_ID: tasks-in-github
-  :END:
+* We probably going to create a Signup Genius so folks can volunteer for tasks
 
-  I'm experimenting with using GitHub to manage tasks. Chances are it's too complicated, but I
-  thought I'd try it.
-
-  (We'll probably use something like Signup Genius for people to volunteer, in the end.)
-
-  - [[HTTPS://github.com/JohnL4/Zoe/issues?q=is%3Aissue+is%3Aopen][BIG TASK LIST]]
-  - [[https://github.com/JohnL4/Zoe/issues?q=is%3Aopen+is%3Aissue+label%3AErrand][Tasks labelled "Errand"]]
-  - [[https://github.com/JohnL4/Zoe/issues?q=is%3Aopen+is%3Aissue+label%3AManageWorkgroup][Tasks labelled "ManageWorkgroup"]]
-  - [[https://github.com/JohnL4/Zoe/issues?q=is%3Aopen+is%3Aissue+label%3AOnline][Tasks labelled "Online"]]
-  - [[https://github.com/JohnL4/Zoe/issues?q=is%3Aopen+is%3Aissue+label%3APhoneTalk][Tasks labelled "PhoneTalk"]]
-  - [[https://github.com/JohnL4/Zoe/issues?q=is%3Aopen+is%3Aissue+label%3AShopBigBox][Tasks labelled "ShopBigBox"]]
-
-  Basically, the idea is to group similar type tasks together for people who prefer one kind of task
-  over another.  It's possible for one task to be in several groups.
-
-  You can filter a lot of ways (as I said: overkill) with the dropdown menus in the big "Issues"
-  list:
-
-  [[file:filter-issues-by-label.png][file:filter-issues-by-label.png]]
+  Or something like it.  If we don't just do it more or less informally.
