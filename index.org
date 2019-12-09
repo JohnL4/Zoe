@@ -42,38 +42,42 @@
 ** Column view
 # C-c C-c in block to update or C-u C-c C-x C-u to update all such views in file from anywhere.
 #+BEGIN: columnview :hlines 1 :id global :indent t
-| TODO | WHO   | PRIORITY | HRS | ITEM                                                                      |
-|------+-------+----------+-----+---------------------------------------------------------------------------|
-|      |       | B        |     | Overview                                                                  |
-|      |       | B        |     | \_  Column view                                                           |
-|------+-------+----------+-----+---------------------------------------------------------------------------|
-|      |       | B        |     | Notes                                                                     |
-|      |       | B        |     | \_  What we have now                                                      |
-|      |       | B        |     | \_    Content                                                             |
-|      |       | B        |     | \_  What we don't have                                                    |
-|------+-------+----------+-----+---------------------------------------------------------------------------|
-|      |       | B        |     | Considerations                                                            |
-|      |       | B        |     | \_  Youth -- sell Souper-Bowl Sunday (after MLK, Feb. 2)                  |
-|      |       | B        |     | \_  Youth lockin Fri. after MLK day                                       |
-|------+-------+----------+-----+---------------------------------------------------------------------------|
-| TODO |       | B        |     | TODO-list -- consult list -- plus everything in this section              |
-|      | John  | B        |     | \_  Request from Cary FUMC ppl                                            |
-|      | John  | B        |     | \_  Investigate having labels printed (discount through church?)          |
-|      |       | B        |     | \_  Actually get labels printed                                           |
-| DONE | Erika | B        |     | \_  Send link to Zoe materials                                            |
-|      | Erika | B        |     | \_  Convert zoe todo list to... excel sheet                               |
-|      |       | B        |     | \_  Shopping legwork                                                      |
-|      |       | B        |     | \_    Investigate bulk food from weaver street                            |
-|      |       | B        |     | \_    Ziplock snack bags for pasta                                        |
-|      |       | B        |     | \_    Order boullion from bulkfoods.com?                                  |
-|      |       | B        |     | \_  order bags                                                            |
-|      |       | B        |     | \_  label bags                                                            |
-|      |       | B        |     | \_  pre-label jars (sticky labels)                                        |
-|      |       | B        |     | \_  tag jars (strings & tags)                                             |
-|      |       | B        |     | \_  day of assembly: a team of captains on MLK day of service (Jan. 20?)  |
-|      |       | B        |     | \_  Need measuring/scooping equipment for assembly day in fellowship hall |
-|      | Erika | B        |     | \_  Buy jars                                                              |
-|      |       | B        |     | \_  Buy gloves and hairnets (for food handling)                           |
+| TODO        | WHO   | PRIORITY | HRS | ITEM                                                                      |
+|-------------+-------+----------+-----+---------------------------------------------------------------------------|
+|             |       | B        |     | Overview                                                                  |
+|             |       | B        |     | \_  Column view                                                           |
+|-------------+-------+----------+-----+---------------------------------------------------------------------------|
+|             |       | B        |     | Notes                                                                     |
+|             |       | B        |     | \_  What we have now                                                      |
+|             |       | B        |     | \_    Content                                                             |
+|             |       | B        |     | \_  What we don't have                                                    |
+|-------------+-------+----------+-----+---------------------------------------------------------------------------|
+|             |       | B        |     | Considerations                                                            |
+|             |       | B        |     | \_  Youth -- sell Souper-Bowl Sunday (after MLK, Feb. 2)                  |
+|             |       | B        |     | \_  Youth lockin Fri. after MLK day                                       |
+|-------------+-------+----------+-----+---------------------------------------------------------------------------|
+| TODO        |       | B        |     | TODO-list -- consult list -- plus everything in this section              |
+|             | John  | B        |     | \_  Request from Cary FUMC ppl                                            |
+|             | John  | B        |     | \_  Investigate having labels printed (discount through church?)          |
+|             |       | B        |     | \_  Actually get labels printed                                           |
+| DONE        | Erika | B        |     | \_  Send link to Zoe materials                                            |
+| DONE        | Erika | B        |     | \_  Convert zoe todo list to... excel sheet                               |
+|             |       | B        |     | \_  Shopping legwork                                                      |
+|             |       | B        |     | \_    Investigate bulk food from weaver street                            |
+|             |       | B        |     | \_    Ziplock snack bags for pasta                                        |
+|             |       | B        |     | \_    Order boullion from bulkfoods.com?                                  |
+|             |       | B        |     | \_  order bags                                                            |
+|             |       | B        |     | \_  label bags                                                            |
+|             |       | B        |     | \_  pre-label jars (sticky labels)                                        |
+|             |       | B        |     | \_  tag jars (strings & tags)                                             |
+|             |       | B        |     | \_  day of assembly: a team of captains on MLK day of service (Jan. 20?)  |
+|             |       | B        |     | \_  Need measuring/scooping equipment for assembly day in fellowship hall |
+| IN-PROGRESS | Erika | B        |     | \_  Buy jars                                                              |
+|             |       | B        |     | \_  Buy gloves and hairnets (for food handling)                           |
+|-------------+-------+----------+-----+---------------------------------------------------------------------------|
+|             |       | B        |     | The giant spreadsheet of ingredients                                      |
+|-------------+-------+----------+-----+---------------------------------------------------------------------------|
+|             |       | B        |     | Yet Another Way of Slicing and Dicing Tasks                               |
 #+END:
 * Notes
 ** What we have now
@@ -145,11 +149,13 @@
      Sent link in response to initial group email.
    (To John.)
 
-** Convert zoe todo list to... excel sheet
+** DONE Convert zoe todo list to... excel sheet
+   CLOSED: [2019-12-08 Sun 22:16]
    :PROPERTIES:
    :WHO:      Erika
    :END:
 
+   - CLOSING NOTE [2019-12-08 Sun 22:16]
    Ingredient list, primarily.
 
 ** Shopping legwork
@@ -203,7 +209,7 @@
 
    how many?
 
-** Buy jars
+** IN-PROGRESS Buy jars
    :PROPERTIES:
    :WHO:      Erika
    :END:
