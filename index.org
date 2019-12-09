@@ -199,3 +199,27 @@ The .eml file is an email message which /should/ open in whatever is your favori
    :WHO:      Erika
    :END:
 ** Buy gloves and hairnets (for food handling)
+* The giant spreadsheet of ingredients
+
+  [[file:Quantities-for-Soup.xlsx][file:Quantities-for-Soup.xlsx]]
+
+* Yet Another Way of Slicing and Dicing Tasks
+
+  I'm experimenting with using GitHub to manage tasks. Chances are it's too complicated, but I
+  thought I'd try it.
+
+  - [[https://github.com/JohnL4/Zoe/issues?q=is%3Aissue+is%3Aopen][Big task list]]
+    
+  - [[https://github.com/JohnL4/Zoe/issues?q=is%3Aopen+is%3Aissue+label%3AErrand][Tasks labelled "Errand"]]
+  - [[https://github.com/JohnL4/Zoe/issues?q=is%3Aopen+is%3Aissue+label%3AManageWorkgroup][Tasks labelled "ManageWorkgroup"]]
+  - [[https://github.com/JohnL4/Zoe/issues?q=is%3Aopen+is%3Aissue+label%3AOnline][Tasks labelled "Online"]]
+  - [[https://github.com/JohnL4/Zoe/issues?q=is%3Aopen+is%3Aissue+label%3APhoneTalk][Tasks labelled "PhoneTalk"]]
+  - [[https://github.com/JohnL4/Zoe/issues?q=is%3Aopen+is%3Aissue+label%3AShopBigBox][Tasks labelled "ShopBigBox"]]
+
+  Basically, the idea is to group similar type tasks together for people who prefer one kind of task
+  over another.  It's possible for one task to be in several groups.
+
+  You can filter a lot of ways (as I said: overkill) with the dropdown menus in the big "Issues"
+  list:
+
+  [[file:filter-issues-by-label.png][file:filter-issues-by-label.png]]
