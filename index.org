@@ -55,43 +55,44 @@
 
 # C-c C-c in block to update or C-u C-c C-x C-u to update all such views in file from anywhere.
 #+BEGIN: columnview :hlines 1 :id global :indent t
-| TODO        | WHO   | TAGS          | ITEM                                                                         |
-|-------------+-------+---------------+------------------------------------------------------------------------------|
-|             |       |               | Overview                                                                     |
-|             |       |               | \_  Column view                                                              |
-|-------------+-------+---------------+------------------------------------------------------------------------------|
-|             |       |               | Notes                                                                        |
-|             |       |               | \_  What we have now                                                         |
-|             |       |               | \_    Content                                                                |
-|             |       |               | \_  What we don't have                                                       |
-|-------------+-------+---------------+------------------------------------------------------------------------------|
-|             |       |               | Considerations                                                               |
-|             |       |               | \_  Youth -- sell Souper-Bowl Sunday (after MLK, Feb. 2)                     |
-|             |       |               | \_  Youth lockin Fri. after MLK day                                          |
-|-------------+-------+---------------+------------------------------------------------------------------------------|
-| TODO        |       |               | TODO-list -- consult list -- plus everything in this section                 |
-|             | JohnL | :talk:        | \_  Request from Cary FUMC ppl                                               |
-|             | JohnL | :talk:        | \_  Investigate having labels printed (discount through church?)             |
-|             |       | :talk:online: | \_  Actually get labels printed                                              |
-| DONE        | Erika |               | \_  Send link to Zoe materials                                               |
-| DONE        | Erika |               | \_  Convert zoe todo list to... excel sheet                                  |
-|             |       | :shop:        | \_  Shopping legwork                                                         |
-|             |       | :talk:        | \_    Investigate bulk food from weaver street                               |
-|             |       | :shop:        | \_    Ziplock snack bags for pasta                                           |
-|             |       | :online:      | \_    Order boullion from bulkfoods.com?                                     |
-|             |       | :online:      | \_  order bags                                                               |
-|             |       | :captain:     | \_  label bags                                                               |
-|             |       | :captain:     | \_  pre-label jars (sticky labels)                                           |
-|             |       | :captain:     | \_  tag jars (strings & tags)                                                |
-|             |       | :captain:     | \_  day of assembly: a team of captains on MLK day of service (Jan. 20?)     |
-|             |       | :shop:        | \_  Need measuring/scooping equipment for assembly day in fellowship hall    |
-| IN-PROGRESS | Erika | :talk:online: | \_  Buy jars                                                                 |
-|             |       | :shop:        | \_  Buy gloves and hairnets (for food handling)                              |
-|             |       |               | \_  Find something to keep filled jars in                                    |
-|-------------+-------+---------------+------------------------------------------------------------------------------|
-|             |       |               | The giant spreadsheet of ingredients                                         |
-|-------------+-------+---------------+------------------------------------------------------------------------------|
-|             |       |               | We probably going to create a Signup Genius so folks can volunteer for tasks |
+| TODO        | WHO   | TAGS          | ITEM                                                                            |
+|-------------+-------+---------------+---------------------------------------------------------------------------------|
+|             |       |               | Overview                                                                        |
+|             |       |               | \_  Column view                                                                 |
+|-------------+-------+---------------+---------------------------------------------------------------------------------|
+|             |       |               | Notes                                                                           |
+|             |       |               | \_  What we have now                                                            |
+|             |       |               | \_    Content                                                                   |
+|             |       |               | \_  What we don't have                                                          |
+|-------------+-------+---------------+---------------------------------------------------------------------------------|
+|             |       |               | Considerations                                                                  |
+|             |       |               | \_  Youth -- sell Souper-Bowl Sunday (after MLK, Feb. 2)                        |
+|             |       |               | \_  Youth lockin Fri. after MLK day                                             |
+|-------------+-------+---------------+---------------------------------------------------------------------------------|
+| TODO        |       |               | TODO-list -- consult list -- plus everything in this section                    |
+|             | JohnL | :talk:        | \_  Request from Cary FUMC ppl                                                  |
+|             | JohnL | :talk:        | \_  Investigate having labels printed (discount through church?)                |
+|             |       | :talk:online: | \_  Actually get labels printed                                                 |
+| DONE        | Erika |               | \_  Send link to Zoe materials                                                  |
+| DONE        | Erika |               | \_  Convert zoe todo list to... excel sheet                                     |
+|             |       |               | \_  Shopping legwork                                                            |
+|             |       | :talk:        | \_    Investigate bulk food from weaver street                                  |
+|             |       | :shop:        | \_    Ziplock snack bags for pasta                                              |
+|             |       | :online:      | \_    Order boullion from bulkfoods.com?                                        |
+|             |       | :shop:        | \_    Actual shopping legwork                                                   |
+|             |       | :online:      | \_  order bags                                                                  |
+|             |       | :captain:     | \_  label bags                                                                  |
+|             |       | :captain:     | \_  pre-label jars (sticky labels)                                              |
+|             |       | :captain:     | \_  tag jars (strings & tags)                                                   |
+|             |       | :captain:     | \_  day of assembly: a team of captains on MLK day of service (Jan. 20?)        |
+|             |       | :shop:        | \_  Need measuring/scooping equipment for assembly day in fellowship hall       |
+| IN-PROGRESS | Erika | :talk:online: | \_  Buy jars                                                                    |
+|             |       | :shop:        | \_  Buy gloves and hairnets (for food handling)                                 |
+|             |       |               | \_  Find something to keep filled jars in                                       |
+|-------------+-------+---------------+---------------------------------------------------------------------------------|
+|             |       |               | The giant spreadsheet of ingredients                                            |
+|-------------+-------+---------------+---------------------------------------------------------------------------------|
+|             |       |               | We're probably going to create a Signup Genius so folks can volunteer for tasks |
 #+END:
 * Notes
 ** What we have now
@@ -172,7 +173,7 @@
    - CLOSING NOTE [2019-12-08 Sun 22:16]
    Ingredient list, primarily.
 
-** Shopping legwork                                                                           :shop:
+** Shopping legwork
 
    Ppl can shop & get reimbursed from missions funds
 
@@ -185,7 +186,11 @@
 *** Order boullion from bulkfoods.com?                                                      :online:
 
     Order /everything/ from there???
-    
+   
+*** Actual shopping legwork                                                                   :shop:
+
+    No matter where we get the items.
+ 
 ** order bags                                                                               :online:
 
    Little paper bags to put jars in for gifts and carrying and whatnot.  Probably good for little presents or fanciness?
