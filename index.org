@@ -21,14 +21,23 @@
 
 * Overview 
 
-University UMC (Chapel Hill) Zoe Friendship Soup project, in all its disorganized glory.
+  University UMC (Chapel Hill) Zoe Friendship Soup project, in all its disorganized glory.
 
-(See also https://zoeempowers.org if you want to know what the heck is going on here.  It's a church fundraiser.)
+  Source code: https://github.com/JohnL4/Zoe (=.org= files are the original text files (it's a kind of "markdown", if
+  anybody is familiar with that terminology); the =.html= files are generated from them).
 
-All the glory for the initial email and Word docs goes to First United Methodist Church of Cary, NC.
+  "Rendered" web site: https://uumc-zoe.netlify.com/
 
-The .eml file is an email message which /should/ open in whatever is your favorite email client (Outlook, Thunderbird,
-...).
+  This is basically a pile of index cards, viewed in different ways (the table of contents, the "column view", the items
+  themselves in the text below).  I may use the github site to track work items, if I get the energy (which would be a
+  fourth view, but spiffier.)
+
+  (See also https://zoeempowers.org if you want to know what the heck is going on here.  It's a church fundraiser.)
+
+  All the glory for the initial email and Word docs goes to First United Methodist Church of Cary, NC.
+
+  The .eml file is an email message which /should/ open in whatever is your favorite email client (Outlook, Thunderbird,
+  ...).
 
 ** Column view
 # C-c C-c in block to update or C-u C-c C-x C-u to update all such views in file from anywhere.
